@@ -1,3 +1,12 @@
+# uniba/y-websocket
+
+これはsgmsの共同編集機能の開発時に使用してるwebsocket-serverのレポジトリです。
+
+[vercel](https://y-websocket-server-demo.vercel.app/
+)にデプロイされています。
+
+
+詳細は [fork元のレポジトリ](https://github.com/yjs/y-websocket) または以下のオリジナルのREADMEを参照ください。
 
 # y-websocket :tophat:
 > WebSocket Provider for Yjs
